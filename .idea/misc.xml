@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.279" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable-v24/movie_title_bg.xml" value="0.227" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable-v24/rating_bg_orange.xml" value="0.227" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable-v24/rating_bg_red.xml" value="0.227" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/bg_bookmark.xml" value="0.2085" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/bg_white_circle.xml" value="0.1435" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/button.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.26" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.26" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/ic_baseline_bookmark_filled_24.xml" value="0.26" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.279" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/line_separator.xml" value="0.282" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/line_separator_horizontal.xml" value="0.279" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/drawable/rating_bg_green.xml" value="0.202" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout-land/activity_movie_detail.xml" value="0.35572916666666665" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout-v31/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/activity_content.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/activity_login.xml" value="0.25462962962962965" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/activity_main.xml" value="0.30925925925925923" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/activity_movie_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/activity_registration.xml" value="0.30925925925925923" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/activity_user_profile.xml" value="0.24722222222222223" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/movie_card_item.xml" value="0.287962962962963" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/movie_list_item.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/review_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/layout/video_item.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/Projects/MovieApp/app/src/main/res/menu/simple_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
